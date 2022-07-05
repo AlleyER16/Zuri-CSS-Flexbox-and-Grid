@@ -1,0 +1,12 @@
+.nav-links {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.nav-links > a {
+    background-color: hsl(184, 100%, 22%);
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
